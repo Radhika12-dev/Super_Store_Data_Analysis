@@ -4,5 +4,19 @@ This notebook contains the analysis of different sectors of super store to make 
 
 The trends are showcased using different types of graphs that helps us in better understanding.
 
+Libraries used:
+ -Pandas
+ -Numpy
+ -Matplotlib
+ -Seaburn
+ -Plotty
+
+Types of Graphs created:
+ - Bar Chart
+ - Pie Chart
+ - Tree map
+ - Sun burst
+ - Line Graph
+
 Thanks
 
