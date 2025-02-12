@@ -18,5 +18,10 @@ Types of Graphs created:
  - Sun burst
  - Line Graph
 
-Thanks
+
+I have created the interactive dashboard that will help uer to understand the stats and everything.
+
+In order to run the streamlit, you can use the below command after cloning the repo
+
+commad: streamlit run (name of the python file).py
 
